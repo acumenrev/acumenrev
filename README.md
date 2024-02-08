@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently working on Mobile Development (iOS, Flutter)
+- I'm currently learning backend, project management
+- Reach me at: acumnenvn@live.com 
+
+[![acumenrev's GitHub stats](https://github-readme-stats.vercel.app/api?username=acumenrev)](https://github.com/acumenrev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acumenrev&langs_count=8)](https://github.com/acumenrev)
